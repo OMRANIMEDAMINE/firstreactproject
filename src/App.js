@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+		<button onClick={() => alert('Bouton cliqué !')}>Cliquez Moi</button>
       </header>
     </div>
   );
